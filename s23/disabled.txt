@@ -1,0 +1,4 @@
+com.google.android.gms.supervision
+com.samsung.android.game.gos
+com.samsung.android.knox.zt.framework
+com.samsung.android.spayfw
