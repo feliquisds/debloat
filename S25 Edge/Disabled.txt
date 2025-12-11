@@ -1,0 +1,3 @@
+com.mygalaxy.service
+com.samsung.android.knox.zt.framework
+com.samsung.android.spayfw
