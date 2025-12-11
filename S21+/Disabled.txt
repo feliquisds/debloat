@@ -1,0 +1,4 @@
+com.samsung.android.cmfa.framework
+com.samsung.android.peripheral.framework
+com.samsung.android.visionintelligence
+com.samsung.cmfa.AuthTouch
