@@ -198,7 +198,6 @@ com.samsung.android.net.wifi.wifiguider
 com.samsung.android.networkdiagnostic
 com.samsung.android.nfc
 com.samsung.android.nfc.resources.default
-com.samsung.android.photoremasterservice
 com.samsung.android.privacydashboard
 com.samsung.android.privateaccesstokens
 com.samsung.android.providers.factory
@@ -209,6 +208,7 @@ com.samsung.android.samsungpass
 com.samsung.android.samsungpassautofill
 com.samsung.android.samsungpositioning
 com.samsung.android.scpm
+com.samsung.android.scs
 com.samsung.android.sdk.handwriting
 com.samsung.android.sdm.config
 com.samsung.android.sead
