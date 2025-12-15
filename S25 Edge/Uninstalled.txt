@@ -335,6 +335,7 @@ com.sec.modem.settings
 com.sec.nrsaentitlement
 com.sec.phone
 com.sec.spp.push
+com.sec.usbsettings
 com.sec.vsim.ericssonnsds.webapp
 com.sem.factoryapp
 com.sidia.suframa.notification
