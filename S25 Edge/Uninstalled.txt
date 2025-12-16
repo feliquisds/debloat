@@ -22,6 +22,7 @@ com.android.egg
 com.android.hotspot2.osulogin
 com.android.hotwordenrollment.okgoogle
 com.android.hotwordenrollment.xgoogle
+com.android.inputdevices
 com.android.internal.display.cutout.emulation.corner
 com.android.internal.display.cutout.emulation.double
 com.android.internal.display.cutout.emulation.hole
@@ -31,6 +32,7 @@ com.android.internal.systemui.navbar.threebutton
 com.android.internal.systemui.navbar.transparent
 com.android.managedprovisioning
 com.android.microdroid.empty_payload
+com.android.mms.service
 com.android.ons
 com.android.pacprocessor
 com.android.phone.auto_generated_characteristics_rro
@@ -39,6 +41,7 @@ com.android.providers.contactkeys
 com.android.providers.downloads.ui
 com.android.providers.partnerbookmarks
 com.android.providers.telephony.auto_generated_characteristics_rro
+com.android.providers.userdictionary
 com.android.proxyhandler
 com.android.role.notes.enabled
 com.android.se
@@ -101,7 +104,6 @@ com.google.android.rkpdapp
 com.google.android.safetycenter.resources
 com.google.android.server.deviceconfig.resources
 com.google.android.setupwizard
-com.google.android.syncadapters.calendar
 com.google.android.tts
 com.google.android.youtube
 com.google.ar.core
@@ -148,6 +150,7 @@ com.samsung.android.beaconmanager
 com.samsung.android.bixby.agent
 com.samsung.android.bixby.wakeup
 com.samsung.android.bixbyvision.framework
+com.samsung.android.brightnessbackupservice
 com.samsung.android.callassistant
 com.samsung.android.camerasdkservice
 com.samsung.android.cameraxservice
