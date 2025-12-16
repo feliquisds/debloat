@@ -3,6 +3,7 @@ android.auto_generated_rro_vendor__
 android.autoinstalls.config.samsung
 com.amazon.appmanager
 com.android.apps.tag
+com.android.avatarpicker
 com.android.backupconfirm
 com.android.bips
 com.android.bluetoothmidiservice
@@ -111,11 +112,13 @@ com.google.audio.hearing.visualization.accessibility.scribe
 com.google.mainline.adservices
 com.google.mainline.telemetry
 com.hiya.star
+com.knox.vpn.proxyhandler
 com.microsoft.appmanager
 com.microsoft.skydrive
 com.monotype.android.font.foundation
 com.monotype.android.font.roboto
 com.monotype.android.font.samsungone
+com.mygalaxy.service
 com.qti.qcc
 com.qti.snapdragon.qdcm_ff
 com.qualcomm.location
@@ -182,9 +185,14 @@ com.samsung.android.kmxservice
 com.samsung.android.knox.analytics.uploader
 com.samsung.android.knox.attestation
 com.samsung.android.knox.containercore
+com.samsung.android.knox.er
+com.samsung.android.knox.kfbp
+com.samsung.android.knox.knnr
 com.samsung.android.knox.kpecore
 com.samsung.android.knox.mpos
 com.samsung.android.knox.pushmanager
+com.samsung.android.knox.sandbox
+com.samsung.android.knox.zt.framework
 com.samsung.android.liveeffectservice
 com.samsung.android.location
 com.samsung.android.mapsagent
@@ -326,6 +334,7 @@ com.sec.android.usermanual
 com.sec.android.widgetapp.easymodecontactswidget
 com.sec.app.RilErrorNotifier
 com.sec.bcservice
+com.sec.enterprise.knox.cloudmdm.smdms
 com.sec.epdgtestapp
 com.sec.facatfunction
 com.sec.factory.camera
