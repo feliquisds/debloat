@@ -153,7 +153,6 @@ com.samsung.android.beaconmanager
 com.samsung.android.bixby.agent
 com.samsung.android.bixby.wakeup
 com.samsung.android.bixbyvision.framework
-com.samsung.android.brightnessbackupservice
 com.samsung.android.callassistant
 com.samsung.android.camerasdkservice
 com.samsung.android.cameraxservice
