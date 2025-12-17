@@ -168,7 +168,6 @@ com.samsung.android.dqagent
 com.samsung.android.dsms
 com.samsung.android.dynamiclock
 com.samsung.android.easysetup
-com.samsung.android.emergency
 com.samsung.android.ese
 com.samsung.android.fast
 com.samsung.android.forest
