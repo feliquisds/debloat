@@ -14,5 +14,3 @@
 - **com.samsung.android.visual.cloudcore:** required for generative fill and photo remaster to work properly
 
 - **com.samsung.android.scs:** required for hiding specific apps in the app drawer
-
-- **com.samsung.android.brightnessbackupservice:** required for blue light filter
