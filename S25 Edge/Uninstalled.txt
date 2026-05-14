@@ -28,6 +28,7 @@ com.android.internal.display.cutout.emulation.double
 com.android.internal.display.cutout.emulation.hole
 com.android.internal.display.cutout.emulation.tall
 com.android.internal.display.cutout.emulation.waterfall
+com.android.internal.systemui.navbar.gestural
 com.android.internal.systemui.navbar.threebutton
 com.android.internal.systemui.navbar.transparent
 com.android.managedprovisioning
@@ -270,6 +271,7 @@ com.samsung.faceservice
 com.samsung.gamedriver.sm8750
 com.samsung.gpuwatchapp
 com.samsung.internal.systemui.navbar.sec_gestural
+com.samsung.internal.systemui.navbar.sec_gestural_no_hint
 com.samsung.ipservice
 com.samsung.knox.securefolder
 com.samsung.mediasearch
