@@ -87,6 +87,7 @@ com.google.android.gms.location.history
 com.google.android.gms.supervision
 com.google.android.health.connect.backuprestore
 com.google.android.healthconnect.controller
+com.google.android.networkstack.tethering.overlay
 com.google.android.ondevicepersonalization.services
 com.google.android.onetimeinitializer
 com.google.android.overlay.gmsconfig.asi
@@ -159,6 +160,7 @@ com.samsung.android.bixby.wakeup
 com.samsung.android.bixbyvision.framework
 com.samsung.android.brightnessbackupservice
 com.samsung.android.callassistant
+com.samsung.android.callbgprovider
 com.samsung.android.camerasdkservice
 com.samsung.android.cameraxservice
 com.samsung.android.carkey
@@ -207,6 +209,7 @@ com.samsung.android.mocca
 com.samsung.android.mydevice
 com.samsung.android.net.wifi.wifiguider
 com.samsung.android.networkdiagnostic
+com.samsung.android.networkstack.tethering.overlay
 com.samsung.android.nfc
 com.samsung.android.nfc.resources.default
 com.samsung.android.privacydashboard

@@ -1,4 +1,5 @@
 com.mygalaxy.service
+com.samsung.android.game.gos
 com.samsung.android.knox.zt.framework
 com.samsung.android.spayfw
 com.sec.android.emergencylauncher
