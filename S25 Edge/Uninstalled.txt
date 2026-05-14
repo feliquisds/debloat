@@ -243,7 +243,6 @@ com.samsung.android.stickercenter
 com.samsung.android.svcagent
 com.samsung.android.themestore
 com.samsung.android.uwb.resources
-com.samsung.android.vexfwk.service
 com.samsung.android.visionintelligence
 com.samsung.android.visual.cloudcore
 com.samsung.android.vtcamerasettings
