@@ -221,7 +221,6 @@ com.samsung.android.rubin.app
 com.samsung.android.samsungpass
 com.samsung.android.samsungpassautofill
 com.samsung.android.samsungpositioning
-com.samsung.android.scpm
 com.samsung.android.sdk.handwriting
 com.samsung.android.sdm.config
 com.samsung.android.sead
