@@ -26,3 +26,5 @@
 - **com.samsung.internal.systemui.navbar.gestural_no_hint:** required for gesture navigation (without hint), interestingly you do not need *com.android.internal.systemui.navbar.gestural* (gesture navigation from stock Android i assume?) or *com.samsung.internal.systemui.navbar.sec_gestural_no_hint* (i imagine *sec* means secure? but it didn't affect anything)
 
 - **com.samsung.android.aicore:** required for on-device AI to work
+
+- **com.samsung.android.mobileservice:** required for group sharing features and for Quick Share to work between your contacts

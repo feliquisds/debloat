@@ -205,7 +205,6 @@ com.samsung.android.mdm
 com.samsung.android.mdx
 com.samsung.android.messageguardsync
 com.samsung.android.mhs.ai
-com.samsung.android.mobileservice
 com.samsung.android.mocca
 com.samsung.android.mydevice
 com.samsung.android.net.wifi.wifiguider
