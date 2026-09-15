@@ -77,6 +77,7 @@ com.google.android.appsearch.apk
 com.google.android.as
 com.google.android.as.oss
 com.google.android.captiveportallogin
+com.google.android.cellbroadcastservice
 com.google.android.euicc
 com.google.android.ext.shared
 com.google.android.federatedcompute
@@ -96,6 +97,8 @@ com.google.android.overlay.gmsconfig.geotz
 com.google.android.overlay.gmsconfig.gsa
 com.google.android.overlay.gmsconfig.searchselector
 com.google.android.overlay.modules.captiveportallogin.forframework
+com.google.android.overlay.modules.cellbroadcastreceiver
+com.google.android.overlay.modules.cellbroadcastservice
 com.google.android.overlay.modules.documentsui
 com.google.android.overlay.modules.healthfitness.forframework
 com.google.android.overlay.modules.mediaprovider
