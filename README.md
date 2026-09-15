@@ -28,3 +28,9 @@
 - **com.samsung.android.aicore:** required for on-device AI to work
 
 - **com.samsung.android.mobileservice:** required for group sharing features and for Quick Share to work between your contacts
+
+- **com.google.android.cellbroadcastreceiver, com.google.android.cellbroadcastservice, com.google.android.overlay.modules.cellbroadcastreceiver, and com.google.android.overlay.modules.cellbroadcastservice:** required for emergency/OTA alerts (like heavy weather and whatnot), not sure if all of these are required at once, needs more testing
+
+- **com.samsung.euicc:** required for SIM Manager to not hang and be able to load SIMs
+
+- **com.sec.phone:** required for adding eSIMs
