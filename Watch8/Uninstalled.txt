@@ -21,11 +21,14 @@ com.android.se
 com.android.server.deviceconfig.resources
 com.android.virtualmachine.res
 com.android.wearable.overlay.clockworksysui
+com.google.android.apps.maps
 com.google.android.apps.wearable.retailattractloop
 com.google.android.clockwork.font.sandbox.impl
 com.google.android.clockwork.refsysui.default
 com.google.android.ext.shared
+com.google.android.gms.supervision
 com.google.android.marvin.talkback
+com.google.android.overlay.modules.cellbroadcastreceiver
 com.google.android.partnersetup
 com.google.android.tts
 com.google.android.wearable.assistant
@@ -58,6 +61,8 @@ com.samsung.android.service.health
 com.samsung.android.spay
 com.samsung.android.timezone.data_W
 com.samsung.android.timezone.updater
+com.samsung.android.watch.cameracontroller
+com.samsung.android.watch.compass
 com.samsung.android.watch.runestone.app
 com.samsung.android.watch.watchface.activitynumber
 com.samsung.android.watch.watchface.analogmodular

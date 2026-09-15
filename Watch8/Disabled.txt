@@ -1,2 +1,1 @@
-com.google.android.gms.supervision
 com.samsung.android.wearable.setupwizard
