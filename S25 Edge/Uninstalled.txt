@@ -186,6 +186,7 @@ com.samsung.android.hdmapp
 com.samsung.android.hwresourceshare
 com.samsung.android.hwresourceshare.storage
 com.samsung.android.inputshare
+com.samsung.android.intellivoiceservice
 com.samsung.android.internal.overlay.config.default_contextual_search
 com.samsung.android.ipsgeofence
 com.samsung.android.kidsinstaller
