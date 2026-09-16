@@ -133,6 +133,7 @@ com.qualcomm.qti.services.systemhelper
 com.qualcomm.timeservice
 com.samsung.aasaservice
 com.samsung.android.accessibility.talkback
+com.samsung.android.aicore
 com.samsung.android.aircommandmanager
 com.samsung.android.allshare.service.mediashare
 com.samsung.android.app.camera.sticker.facearavatar.preload
@@ -213,6 +214,7 @@ com.samsung.android.networkdiagnostic
 com.samsung.android.networkstack.tethering.overlay
 com.samsung.android.nfc
 com.samsung.android.nfc.resources.default
+com.samsung.android.offline.languagemodel
 com.samsung.android.privacydashboard
 com.samsung.android.privateaccesstokens
 com.samsung.android.providers.factory
@@ -244,6 +246,7 @@ com.samsung.android.stickercenter
 com.samsung.android.svcagent
 com.samsung.android.themestore
 com.samsung.android.uwb.resources
+com.samsung.android.vision.model
 com.samsung.android.visionintelligence
 com.samsung.android.visual.cloudcore
 com.samsung.android.vtcamerasettings
